@@ -1,8 +1,6 @@
 # STM32-Blinky-HAL-on-Blue-Pill
 A minimal STM32F103C8T6 (Blue Pill) project demonstrating how to toggle the onboard LED using the STM32 HAL library. This example shows the basic project structure generated with STM32CubeMX, GPIO configuration, and a simple main loop for beginners learning STM32 development.
 
-# STM32-Blinky-HAL on Blue Pill
-
 A complete example project demonstrating how to toggle the onboard LED on the **STM32F103C8T6 (Blue Pill)** board using the **STM32 HAL** library. This project is ideal for beginners learning STM32 development, HAL drivers, and STM32CubeMX project structure.
 
 ---
